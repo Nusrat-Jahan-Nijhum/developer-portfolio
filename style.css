@@ -2,9 +2,13 @@ body{
     font-family: 'Cormorant Garamond', serif;
     font-family: 'Roboto', sans-serif;
     color: blanchedalmond;
+    margin: 0%;
 }
 h1{ 
     font-size: 50px;
+}
+h2{
+    font-size: 45px;
 }
 .namecolored
 {
@@ -34,6 +38,22 @@ section{
     padding: 10px;
     border-radius: 15%;
 }
-.topdesign{
+.top-design{
     background-image: url(images/wallpaper2.png);
+    background-repeat: no-repeat;
+    opacity: 90%;
+}
+.middle-design{
+    background-image: url(images/collosal2.png);
+    background-repeat: no-repeat;
+    opacity: 90%;
+    
+}
+.second-para img{
+    width: 90%;
+}
+.second-para{
+    padding-left: 1%;
+    padding-top: 15%;
+    padding-bottom: 5%;
 }
