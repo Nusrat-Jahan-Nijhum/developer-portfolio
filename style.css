@@ -1,5 +1,25 @@
 
-h1{ margin-top: 100px;
-    margin-left: 100px;
-    color: aquamarine;
+body{
+
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{ font-size: 50px;
+    color:black;
+    margin: 40px 10px 30px;
+}
+h3{
+    font-size: 20px;
+    color:black;
+    margin: 10px 10px;
+
+}
+p{
+   border-radius: 15px;
+   margin: 20px 10px;
+}
+.namecolored
+{
+    color: crimson;
 }
