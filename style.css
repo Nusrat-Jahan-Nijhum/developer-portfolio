@@ -70,9 +70,11 @@ section{
     padding-bottom: 10%;
     padding-left: 5%;
     color: black;
+    /* you can use width and margin function for further details */
     
 }
 .writer{ 
+    
     padding-top: 5%;
     padding-bottom: 10%;
     padding-left: 15%;
@@ -81,16 +83,19 @@ section{
 .jas{
   color:crimson;
   font-size: 30px;
-  box-shadow: 12px 12px 12px pink;
+  box-shadow: 12px 12px 12px gray;
+ 
 }
 .jma{
-    box-shadow: 12px 12px 12px pink;
+    box-shadow: 12px 12px 12px gray;
     color:crimson;
     font-size: 30px;
 }
 .maruyama{
-    box-shadow: 12px 12px 12px pink;
+   
+    box-shadow: 12px 12px 30px gray;
+    border-radius: 15%;
 }
 .hajime{
-    box-shadow: 12px 12px 12px pink;
+    box-shadow: 12px 12px 30px gray;
 }
